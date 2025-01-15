@@ -1,0 +1,23 @@
+Author: Rahul Tak
+
+Name of Quantlet: LLM4Forecasting
+
+Published in: Quantlet
+
+Description: Application of LLaMA for rolling window stock price forecasting
+
+Keywords: 
+- Stock Price
+- LLM
+- LLaMA
+- Forecasting
+
+Submitted: 15 Jan 2025 by Rahul Tak
+
+Output:
+- ^N225_predictions_chart.png
+- BTC-USD_predictions_chart.png
+- GOOG_predictions_chart.png
+- SnP500_predictions_chart.png
+- R2.png
+- RMSE.png
